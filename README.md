@@ -6,4 +6,5 @@ Python port of [MapBox's cheap-ruler](https://github.com/mapbox/cheap-ruler).
 
 - Finish unit tests (stalled because turf is JS only)
 - Documentation
+- Cythonize for speed
 - Publish to PyPI
